@@ -1,0 +1,22 @@
+How to see hidden files and folders:
+
+Linux / macOS (terminal / bash / zsh):
+  # List all files (including hidden ones):
+  ls -a
+  # Example: first go into a folder, then list files
+  cd game/north-lumen/east-petal
+  ls -a
+
+Windows CMD:
+  # Show all files including hidden/system files:
+  dir /a
+
+PowerShell:
+  # Show hidden files:
+  Get-ChildItem -Force
+  # or shorter:
+  dir -Force
+
+Notes:
+- On Unix-like systems (Linux/macOS), hidden files or folders usually start with a dot (.). For example: .hidden-gate-owl
+- Use `ls -a` instead of just `ls` to reveal them.
