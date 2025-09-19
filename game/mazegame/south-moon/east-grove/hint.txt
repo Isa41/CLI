@@ -1,0 +1,5 @@
+┌─────────┐
+│   @?    │   You choose the wrong way
+│         │   Explore other paths!!!
+└───┬─────┘
+    └───→

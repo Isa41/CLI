@@ -1,22 +1,19 @@
-How to see hidden files and folders:
-
-Linux / macOS (terminal / bash / zsh):
-  # List all files (including hidden ones):
-  ls -a
-  # Example: first go into a folder, then list files
-  cd game/north-lumen/east-petal
-  ls -a
-
-Windows CMD:
-  # Show all files including hidden/system files:
-  dir /a
-
-PowerShell:
-  # Show hidden files:
-  Get-ChildItem -Force
-  # or shorter:
-  dir -Force
-
-Notes:
-- On Unix-like systems (Linux/macOS), hidden files or folders usually start with a dot (.). For example: .hidden-gate-owl
-- Use `ls -a` instead of just `ls` to reveal them.
+╔═══════════════ ✦  ODE TO HIDDEN DOORS  ✦ ═══════════════╗
+║ Night walks softly through folders upon folders.          ║
+║ A single dot before a name is a seal of silence:  .       ║
+║ A hush in the wires whispers: “ls seeks—but add a charm,  ║
+║ and shuttered doors will show themselves.”                 ║
+║ You breathe the charm aloud:  `ls -a`                     ║
+║                                                           ║
+║ In the old courtyard of Windows, a rusted echo answers;   ║
+║ you return the call with the gatekeeper’s sign:  `dir /a` ║
+║                                                           ║
+║ Then azure light brushes stone in PowerShell’s gallery;   ║
+║ a firm hand parts the shadowed names:  `Get-ChildItem -Force` ║
+║ Or, if your spell must be brief:  `dir -Force`            ║
+║                                                           ║
+║ And so the dot reveals its passages, one by one.          ║
+║ The path thins the dark; your steps become the key.       ║
+║ Now you know: the secret lives in the dot,                 ║
+║ and in the word spoken rightly.                            ║
+╚═══════════════════════════════════════════════════════════╝

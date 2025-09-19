@@ -2,4 +2,4 @@
       │         *          │
       │   @  →  →  →       │
       └────────────────────┘
-Hint: One path is hidden. Try: ls -a
+Hint: One path is hidden.
