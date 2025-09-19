@@ -15,6 +15,7 @@ Your goal: **explore the maze, find hidden hints, collect passwords, and unlock 
 - Players must use their **knowledge of CLI commands** to progress.
 
 
+
 1. Start the game by running:
 
 📜 Rules
