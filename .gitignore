@@ -1,0 +1,33 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+*.iml
+
+# Logs & temp
+*.log
+logs/
+*.tmp
+tmp/
+*.swp
+*~
+.cache/
+
+# Env & secrets
+.env
+.env.*
+*.secret
+*.key
+
+# Build artifacts (generic)
+build/
+dist/
+out/
+coverage/
