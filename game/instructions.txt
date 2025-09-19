@@ -1,0 +1,42 @@
+# 🧩 CLI Maze Game
+
+A simple command-line maze game where you navigate through directories and files using **basic shell commands** like `pwd`, `ls`, `cd`, and `cd ..`.  
+Your goal: **explore the maze, find hidden hints, collect passwords, and unlock the final room**.
+
+---
+
+## 🎮 Game Concept
+
+- The maze is represented as a set of directories (folders).
+- Each directory can contain:
+  - Empty paths
+  - Text files with **clues or passwords**
+  - Locked rooms that require the correct password to enter
+- Players must use their **knowledge of CLI commands** to progress.
+
+
+1. Start the game by running:
+
+📜 Rules
+Only the above commands are allowed (pwd, ls, cd, cd .., cat).
+Passwords are case-sensitive.
+Do not skip rooms; clues are hidden in files.
+Your progress depends on solving the maze step by step.
+Objective: Reach the final room and escape the maze.
+
+$ pwd
+/home/player
+
+$ ls
+entrance  note.txt
+
+$ cat note.txt
+"Seek the key in the library..."
+
+$ cd entrance
+
+$ ls
+library  locked_door
+
+$ cd library
+
