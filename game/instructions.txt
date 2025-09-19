@@ -25,19 +25,11 @@ Do not skip rooms; clues are hidden in files.
 Your progress depends on solving the maze step by step.
 Objective: Reach the final room and escape the maze.
 
-$ pwd
-/home/player
 
-$ ls
-entrance  note.txt
-
-$ cat note.txt
-"Seek the key in the library..."
-
-$ cd entrance
-
-$ ls
-library  locked_door
-
-$ cd library
+Only use these moves to win:
+ls → “show me what’s here”
+pwd → “where am I?”
+cd room-name → “go into this room”
+cd .. → “go back”
+ls -a → “show me even the hidden rooms/files”
 
