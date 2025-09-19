@@ -1,5 +1,5 @@
-┌─────────┐
-│   @?    │   You choose the wrong way
-│         │   Explore other paths!!!
-└───┬─────┘
-    └───→
+╔════════════════════════════════════════════╗
+║ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  SOLID WALL  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ║
+║ Your route ends here.                      ║
+║ Seek another corridor.                     ║
+╚════════════════════════════════════════════╝

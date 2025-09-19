@@ -1,5 +1,5 @@
-┌─────────┐
-│   @?    │   You choose the wrong way
-│         │   Explore other paths!!!
-└───┬─────┘
-    └───→
+╔════════════════════════════════════════════╗
+║ ☠  DEAD END                                ║
+║ The air is still. No passage lies ahead.   ║
+║ Return the way you came.                   ║
+╚════════════════════════════════════════════╝

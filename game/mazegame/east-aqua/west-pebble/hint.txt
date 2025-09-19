@@ -1,5 +1,5 @@
-┌─────────┐
-│   @?    │   You choose the wrong way
-│         │   Explore other paths!!!
-└───┬─────┘
-    └───→
+╔════════════════════════════════════════════╗
+║ ┌── N ──┐  All doors are sealed.           ║
+║ W  ✖ ✖  E  This is not the way.            ║
+║ └── S ──┘  Try another direction.          ║
+╚════════════════════════════════════════════╝

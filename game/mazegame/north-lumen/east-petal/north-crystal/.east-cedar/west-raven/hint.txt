@@ -1,5 +1,5 @@
-┌─────────┐
-│   @?    │   You choose the wrong way
-│         │   Explore other paths!!!
-└───┬─────┘
-    └───→
+╔════════════════════════════════════════════╗
+║ ✧  The compass spins wildly.               ║
+║ The path loses meaning here.               ║
+║ Not this way.                              ║
+╚════════════════════════════════════════════╝

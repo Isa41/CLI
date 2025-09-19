@@ -1,5 +1,5 @@
-┌─────────┐
-│   @?    │   You choose the wrong way
-│         │   Explore other paths!!!
-└───┬─────┘
-    └───→
+╔════════════════════════════════════════════╗
+║ ⏳  The sand swallows your steps.          ║
+║ Silence answers every call.                ║
+║ WRONG WAY.                                 ║
+╚════════════════════════════════════════════╝

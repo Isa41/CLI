@@ -1,5 +1,5 @@
-┌─────────┐
-│   @?    │   You choose the wrong way
-│         │   Explore other paths!!!
-└───┬─────┘
-    └───→
+╔════════════════════════════════════════════╗
+║ ⇦  ⇧  ⇨  ⇩                                 ║
+║ The signpost points everywhere—and nowhere. ║
+║ This is a false trail.                      ║
+╚════════════════════════════════════════════╝
